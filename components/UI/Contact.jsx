@@ -44,7 +44,7 @@ const Contact = () => {
                 <span>
                   <i className="ri-map-pin-line"></i>
                 </span>
-                <p className="transition-colors duration-300 hover:text-[#01d293]">
+                <p className="transition-colors duration-320 hover:text-[#01d293]">
     Planet Earth 🌎
 </p>
               </li>
